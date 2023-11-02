@@ -4,11 +4,10 @@ Currently, there are 2 Projects:
   1) A Simple Java Calculator
   2) A Simple Number Guessing Game
 
-
-# Calculator
+<h2>Calculator</h2>
 Simply run the program and select which operation needs to be carried out. 
 Enter the operands and receive your answer.
 
-# Number_Guessing_Game
+<h2>Number_Guessing_Game</h2>
 This is a game where the user has to guess the number selected by the computer.
 Simply run the program and follow the instructions.
