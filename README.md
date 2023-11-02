@@ -5,3 +5,10 @@ Currently, there are 2 Projects:
   2) A Simple Number Guessing Game
 
 
+# Calculator
+Simply run the program and select which operation needs to be carried out. 
+Enter the operands and receive your answer.
+
+# Number_Guessing_Game
+This is a game where the user has to guess the number selected by the computer.
+Simply run the program and follow the instructions.
